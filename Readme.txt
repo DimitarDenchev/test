@@ -1,4 +1,2 @@
 Hello, Git
-
-Another change
-Change 003
+This is a test project, learning GIT

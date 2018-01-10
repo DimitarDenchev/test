@@ -1,2 +1,2 @@
 Add some content to the file file1.txt
-
+New change made from FEATURE1 BRANCH

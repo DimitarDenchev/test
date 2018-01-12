@@ -1,3 +1,4 @@
+MASTER CHANGE!!!!
 Hello, Git GIT IS AWESOME!
 This is a test project, learning GIT:
 CHANGE 1
